@@ -15,7 +15,7 @@ print("hi", "if", "you", "watch", "this", sep="-")
 # You can use the end="" parameter to choose how the output ends,
 # by default it is a line break with end="\n",
 # such as adding a question mark with end="?"
-print("this is a question", end = "?")
+print("this is a question", end="?")
 
 # exercises
 # Now, use this command to print your full name separated by a "_" and ending with a ".":
