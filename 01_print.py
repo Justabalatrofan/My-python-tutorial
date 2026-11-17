@@ -19,6 +19,7 @@ print("this is a question", end="?")
 
 # exercises
 # Now, use this command to print your full name separated by a "_" and ending with a ".":
-# You can do it, it's easy! If you get stuck, reread the tutorial and try again.
-# Congratulations 👏🎉! You finished the first part of my tutorial.
-# The next is types
+# You can do it, it's easy, if you get stuck, reread the tutorial and try again
+# Congratulations 👏🎉
+# You finished the first part of my tutorial
+# The next is datatypes

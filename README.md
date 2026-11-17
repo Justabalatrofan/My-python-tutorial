@@ -1,6 +1,6 @@
 # my python tutorial (as someone new to programming)
 
-Hey! I'm learning Python from scratch and putting everything I figure out right here. 
+Hey, I'm learning Python from scratch and putting everything I figure out right here. 
 
 Most tutorials are written by experts who forgot what it's like to be completely lost. I'm the opposite—I'm literally learning this right now, so I'm writing the kind of guide I actually want to read.
 
@@ -12,10 +12,13 @@ Most tutorials are written by experts who forgot what it's like to be completely
 ## 📂 Lessons
 
 * **01. Printing & Parameters** — *Done*
-* **02. Data Types** — *Up next*
+* **02. Data Types** — *Done*
+* **03. Type Conversion** — *Up next*
 
 ## How to follow along
 Grab the files, open them in your editor (I'm using VSCodium, btw), and read the comments from top to bottom. Run the code, mess around with it, and try the exercises on your own.
 
 ## 💬 Feedback
-Since I'm still figuring things out, there's always room to improve. If you know a cleaner way to do something or have a tip to share, open an **Issue** and let me know!
+Since I'm still figuring things out, there's always room to improve. If you know a cleaner way to do something or have a tip to share, open an **Issue** and let me know
+
+*Note: **English isn't my first language** I write all the code and explanations myself, and I use AI to translate and polish the comments while keeping my own voice.*
