@@ -40,5 +40,4 @@ print(type(None))
 # If you get stuck, scroll up, check the examples, and try again.
 # Congratulations 👏🎉
 # You finished the second part of my tutorial.
-# Next up: Type conversion 
-
+# Next up: casting of types
