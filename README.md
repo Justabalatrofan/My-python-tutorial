@@ -14,7 +14,8 @@ Most tutorials are written by experts who forgot what it's like to be completely
 * **01. Printing & Parameters** — *Done*
 * **02. Data Types** — *Done*
 * **03. Type Conversion** — *Done*
-* **04. Variables** — *up next*
+* **04. Variables** — *Done*
+* **05. Input fuction** — *up next*
 
 ## How to follow along
 Grab the files, open them in your editor (I'm using VSCodium, btw), and read the comments from top to bottom. Run the code, mess around with it, and try the exercises on your own.

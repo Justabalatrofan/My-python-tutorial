@@ -20,9 +20,9 @@ print(int(10.9))
 
 # If you want to round a number, there is a command called round().
 # Interestingly, when a number ends in .5, Python rounds it to the nearest even number:
-print(round(2.5))  # Result: 2
-print(round(3.5))  # Result: 4
-print(round(2.50000000000001)) # Result: 3 (because it's > .5)
+print(round(2.5))  # = 2
+print(round(3.5))  # = 4
+print(round(2.50000000000001)) # = 3 (because it's > .5)
 
 # In booleans, nothing (empty) or 0 is False, and the rest is True:
 print(bool(""))
